@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.juexing2019.org/app_icon57.png</string>
+					<string>http://www.dn2019.com/app_icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.juexing2019.org/app_icon512.png</string>
+					<string>http://www.dn2019.com/app_icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
